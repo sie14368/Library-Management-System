@@ -56,7 +56,7 @@ LibraryManagementSystem
 3. Compile and run `Main.java`.
 4. Use the menu to interact with the system.
 
-## What I Learned
+## What Learnt
 
 While building this project, I gained hands-on experience with implementing core Java concepts in a practical application. It helped me understand how different classes interact with each other, how inheritance and abstraction improve code organization, and how collections and exception handling can be used to build a simple management system.
 
